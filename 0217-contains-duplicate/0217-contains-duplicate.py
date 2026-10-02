@@ -6,5 +6,5 @@ class Solution:
             if duplicate==nums[i]:
                 return True
             else:
-                duplicate=nums[i]
-        return False
+               duplicate=nums[i]
+        return False        
